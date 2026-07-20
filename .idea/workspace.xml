@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46fb0b3b-9465-4c3d-acd0-4f4d47409989" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../web/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/.env.development" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/.env.production" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/.npmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/.prettierrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/api/backend/auth/group.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/api/backend/crud.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/api/backend/dashboard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/api/backend/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/api/backend/module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/api/backend/routine/AdminInfo.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/api/backend/routine/config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/api/backend/security/dataRecycle.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/api/backend/security/dataRecycleLog.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/api/backend/security/sensitiveData.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/api/backend/security/sensitiveDataLog.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/api/backend/user/group.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/api/backend/user/moneyLog.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/api/backend/user/scoreLog.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/api/common.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/api/frontend/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/api/frontend/user/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/assets/bg-dark.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/assets/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/assets/dashboard/coffee.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/assets/dashboard/header-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/assets/icons/dark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/assets/icons/full-screen-cancel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/assets/icons/lang.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/assets/icons/light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/assets/icons/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/assets/icons/terminal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/assets/index/index-cover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/assets/login-header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/assets/qr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/baInput/components/array.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/baInput/components/baUpload.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/baInput/components/editor.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/baInput/components/iconSelector.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/baInput/components/remoteSelect.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/baInput/components/selectFile.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/baInput/helper.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/baInput/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/baInput/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/clickCaptcha/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/clickCaptcha/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/contextmenu/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/contextmenu/interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/formItem/createData.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/formItem/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/formItem/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/icon/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/icon/svg/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/icon/svg/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/mixins/baUpload.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/mixins/editor/default.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/mixins/loginFooter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/mixins/loginMounted.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/mixins/userMounted.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/mixins/userProfile.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/table/comSearch/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/table/fieldRender/buttons.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/table/fieldRender/color.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/table/fieldRender/customRender.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/table/fieldRender/customTemplate.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/table/fieldRender/datetime.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/table/fieldRender/default.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/table/fieldRender/icon.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/table/fieldRender/image.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/table/fieldRender/images.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/table/fieldRender/switch.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/table/fieldRender/tag.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/table/fieldRender/tags.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/table/fieldRender/url.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/table/header/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/table/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/table/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/components/terminal/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/autoload.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/auth/admin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/auth/adminLog.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/auth/group.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/auth/rule.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/crud/crud.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/crud/log.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/crud/state.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/dashboard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/login.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/routine/adminInfo.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/routine/attachment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/routine/config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/security/dataRecycle.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/security/dataRecycleLog.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/security/sensitiveData.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/security/sensitiveDataLog.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/user/group.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/user/moneyLog.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/user/rule.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/user/scoreLog.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/en/user/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/auth/admin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/auth/adminLog.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/auth/group.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/auth/rule.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/crud/crud.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/crud/log.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/crud/state.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/dashboard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/login.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/routine/adminInfo.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/routine/attachment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/routine/config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/security/dataRecycle.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/security/dataRecycleLog.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/security/sensitiveData.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/security/sensitiveDataLog.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/user/group.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/user/moneyLog.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/user/rule.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/user/scoreLog.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/backend/zh-cn/user/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/common/en/401.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/common/en/404.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/common/en/axios.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/common/en/pagesTitle.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/common/en/utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/common/en/validate.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/common/zh-cn/401.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/common/zh-cn/404.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/common/zh-cn/axios.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/common/zh-cn/pagesTitle.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/common/zh-cn/utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/common/zh-cn/validate.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/frontend/en.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/frontend/en/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/frontend/en/user/account/balance.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/frontend/en/user/account/changePassword.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/frontend/en/user/account/integral.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/frontend/en/user/account/overview.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/frontend/en/user/account/profile.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/frontend/en/user/login.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/frontend/zh-cn.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/frontend/zh-cn/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/frontend/zh-cn/user/account/balance.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/frontend/zh-cn/user/account/changePassword.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/frontend/zh-cn/user/account/integral.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/frontend/zh-cn/user/account/overview.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/frontend/zh-cn/user/account/profile.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/frontend/zh-cn/user/login.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/globs-en.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/globs-zh-cn.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/lang/merge.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/aside.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/asideToolbar/footer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/asideToolbar/menuSearch/dialog.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/asideToolbar/menuSearch/selectOption.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/baAccount.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/closeFullScreen.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/config.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/header.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/logo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/menus/menuHorizontal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/menus/menuLeftSplit.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/menus/menuLeftSplitTree.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/menus/menuTree.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/menus/menuVertical.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/menus/menuVerticalChildren.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/navBar/classic.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/navBar/default.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/navBar/double.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/navBar/leftSplit.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/navBar/tabs.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/components/navMenus.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/container/classic.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/container/default.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/container/double.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/container/leftSplit.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/container/streamline.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/backend/router-view/main.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/common/components/darkSwitch.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/common/components/loading.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/common/router-view/iframe.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/frontend/components/aside.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/frontend/components/footer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/frontend/components/header.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/frontend/components/main.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/frontend/components/menu.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/frontend/components/menuSub.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/frontend/container/default.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/frontend/container/disable.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/layouts/frontend/user.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/router/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/router/static.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/router/static/adminBase.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/router/static/memberCenterBase.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/stores/adminInfo.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/stores/baAccount.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/stores/config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/stores/constant/cacheKey.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/stores/constant/common.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/stores/constant/terminalTaskStatus.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/stores/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/stores/interface/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/stores/memberCenter.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/stores/navTabs.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/stores/refs.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/stores/siteConfig.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/stores/terminal.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/stores/userInfo.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/styles/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/styles/dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/styles/element.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/styles/index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/styles/loading.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/styles/markdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/styles/mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/styles/var.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/utils/axios.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/utils/baTable.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/utils/common.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/utils/dev.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/utils/directives.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/utils/horizontalScroll.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/utils/iconfont.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/utils/layout.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/utils/loading.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/utils/pageBubble.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/utils/pageShade.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/utils/random.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/utils/router.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/utils/storage.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/utils/useCurrentInstance.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/utils/useDark.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/utils/validate.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/utils/vite.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/auth/admin/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/auth/admin/popupForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/auth/adminLog/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/auth/adminLog/info.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/auth/group/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/auth/group/popupForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/auth/rule/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/auth/rule/popupForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/crud/design.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/crud/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/crud/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/crud/log.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/crud/start.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/dashboard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/module/components/buy.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/module/components/commonDialog.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/module/components/commonDone.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/module/components/commonSelectVersion.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/module/components/confirmFileConflict.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/module/components/goodsInfo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/module/components/installConflict.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/module/components/pay.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/module/components/tableHeader.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/module/components/tabs.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/module/components/uploadInstall.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/module/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/module/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/module/store.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/module/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/routine/adminInfo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/routine/attachment/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/routine/attachment/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/routine/attachment/popupForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/routine/config/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/routine/config/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/security/dataRecycle/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/security/dataRecycle/popupForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/security/dataRecycleLog/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/security/dataRecycleLog/info.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/security/sensitiveData/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/security/sensitiveData/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/security/sensitiveData/popupForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/security/sensitiveDataLog/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/security/sensitiveDataLog/info.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/user/group/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/user/group/popupForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/user/moneyLog/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/user/moneyLog/popupForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/user/rule/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/user/rule/popupForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/user/scoreLog/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/user/scoreLog/popupForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/user/user/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/backend/user/user/popupForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/common/error/401.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/common/error/404.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/frontend/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/frontend/user/account/balance.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/frontend/user/account/changePassword.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/frontend/user/account/integral.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/frontend/user/account/overview.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/frontend/user/account/profile.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/src/views/frontend/user/login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/types/global.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/types/module.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/types/table.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/types/tableRenderer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/vite.config.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3GWPdE6pFZspjSAMIwuXUF5CubW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;v2&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;D:\\GITHUB\\buildadmin\\managerLMSMini-frontend\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2026.1.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.25134.101" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46fb0b3b-9465-4c3d-acd0-4f4d47409989" name="Changes" comment="" />
+      <created>1784084438253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784084438253</updated>
+      <workItem from="1784084439436" duration="542000" />
+      <workItem from="1784086726225" duration="350000" />
+      <workItem from="1784090004097" duration="988000" />
+      <workItem from="1784097561034" duration="162000" />
+      <workItem from="1784100930849" duration="1778000" />
+      <workItem from="1784104122119" duration="46000" />
+      <workItem from="1784169596250" duration="124000" />
+      <workItem from="1784170435592" duration="1310000" />
+      <workItem from="1784172495581" duration="83000" />
+      <workItem from="1784172778300" duration="999000" />
+      <workItem from="1784174940110" duration="1937000" />
+      <workItem from="1784177313711" duration="763000" />
+      <workItem from="1784178203703" duration="125000" />
+      <workItem from="1784184989067" duration="2184000" />
+      <workItem from="1784187257110" duration="2472000" />
+      <workItem from="1784191501725" duration="2369000" />
+      <workItem from="1784194737076" duration="1682000" />
+      <workItem from="1784349353361" duration="677000" />
+      <workItem from="1784364415254" duration="4102000" />
+      <workItem from="1784391524696" duration="1541000" />
+      <workItem from="1784434176064" duration="165000" />
+      <workItem from="1784457924390" duration="803000" />
+      <workItem from="1784478923898" duration="1844000" />
+      <workItem from="1784512423108" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
