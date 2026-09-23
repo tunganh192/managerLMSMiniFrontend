@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46fb0b3b-9465-4c3d-acd0-4f4d47409989" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../web/.editorconfig" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../web/.env" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../web/.env.development" beforeDir="false" />
@@ -330,7 +331,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8,
@@ -349,7 +350,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;v2&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -398,7 +399,9 @@
       <workItem from="1784434176064" duration="165000" />
       <workItem from="1784457924390" duration="803000" />
       <workItem from="1784478923898" duration="1844000" />
-      <workItem from="1784512423108" duration="23000" />
+      <workItem from="1784512423108" duration="722000" />
+      <workItem from="1784517905866" duration="21000" />
+      <workItem from="1785119344453" duration="625000" />
     </task>
     <servers />
   </component>
